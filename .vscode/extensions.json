@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        //^2.1.24
+        "dbaeumer.vscode-eslint"
+    ]
+}
