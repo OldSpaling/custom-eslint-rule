@@ -1,0 +1,2 @@
+# custom-eslint-rule
+test
